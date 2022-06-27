@@ -2,6 +2,6 @@
 
 import math 
 
-larg=float(input('Qual a largura da parede?\n'))
-alt=float(input('Qual a altura da parede?\n'))
+larg = float(input('Qual a largura da parede?\n'))
+alt = float(input('Qual a altura da parede?\n'))
 print('A área da parede é de: {:.2f}m\nPara pintar a parede serão necessários: {} baldes de tinta de 1l'.format(larg*alt, math.ceil((larg*alt)/2)))
