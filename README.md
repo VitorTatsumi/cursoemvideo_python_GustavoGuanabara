@@ -1,1 +1,1 @@
-# cursoemvideo_python_GustavoGuanabara
+Exercícios do Curso em Video disponibilizado pelo Gustavo Guanabara
